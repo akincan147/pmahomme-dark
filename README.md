@@ -4,7 +4,9 @@
 
 #### The theme has been completely changed to the dark theme but maybe very small details that are not interacted with may have been overlooked.
 
-Supported versions: 4.8, 4.9
+Supported versions: 
+*4.8 
+*4.9
 
 -----------------------------------------------------
 
