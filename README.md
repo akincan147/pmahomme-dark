@@ -11,6 +11,7 @@
 * Color scale changed: shades of gray & black. (Used on background, menus, divs, inputs etc.)
 * Fonts color changed: shades of white & light gray
 * Default SQL Query editor color theme changed: adjusted for dark theme and colors based on GitHub SQL color theme.
+* The Query editor fonts size slightly increased. Now SQL Queries much more readable.
 * UI Improved: inputs, buttons, links and menus simplified and all text & box shadows are removed.
 * Unnecessary hover effects (table rows, some links) are removed.
 * Designer adjusted for dark theme.
