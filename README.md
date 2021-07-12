@@ -22,13 +22,13 @@
 
 <details>
    <summary>Linux</summary>
-   <p>Copy downloaded zip to directory of   <strong>/usr/share/phpmyadmin/themes/</strong></p>
+   <p>Copy to downloaded zip:   <strong>/usr/share/phpmyadmin/themes/</strong></p>
 </details>
 <details>
    <summary>macOS</summary>
-   <p>Copy downloaded zip to directory of   <strong>/usr/local/phpmyadmin/themes/</strong></p>
+   <p>Copy to downloaded zip:   <strong>/usr/local/phpmyadmin/themes/</strong></p>
 </details>
 <details>
    <summary>Windows</summary>
-   <p>Copy downloaded zip to directory of   <strong>c:\phpmyadmin\themes\</strong>  or where you installed your phpMyAdmin</p>
+   <p>Copy to downloaded zip:   <strong>c:\phpmyadmin\themes\</strong>  or where you installed your phpMyAdmin</p>
 </details>
