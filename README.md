@@ -2,7 +2,7 @@
 
 ### Dark version of default phpMyAdmin pmahomme theme
 
-#### The theme has been completely changed to the dark theme. maybe very small details that are not interacted with may have been overlooked.
+#### The theme has been completely changed to the dark theme but maybe very small details that are not interacted with may have been overlooked.
 
 -----------------------------------------------------
 
