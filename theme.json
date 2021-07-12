@@ -1,0 +1,9 @@
+{
+    "name": "pmahomme dark",
+    "version": "4.8",
+    "description": "Default phpMyAdmin theme",
+    "author": "phpMyAdmin developers, Akin Can",
+    "url": "https://www.phpmyadmin.net/",
+    "supports": ["4.8","4.9"]
+}
+
