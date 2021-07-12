@@ -30,5 +30,5 @@
 </details>
 <details>
    <summary>Windows</summary>
-   <p>Copy downloaded zip to directory of   <strong>/c/phpmyadmin/themes/</strong>  or where you installed your phpMyAdmin</p>
+   <p>Copy downloaded zip to directory of   <strong>c:\phpmyadmin\themes\</strong>  or where you installed your phpMyAdmin</p>
 </details>
